@@ -1,2 +1,2 @@
 # katas
-A compilations of katas solutions
+A compilation of katas solutions
